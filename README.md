@@ -28,7 +28,7 @@ Conclusion
 This project demonstrates my ability to effectively use Power BI for data analysis and visualization. The report not only highlights technical skills in data processing and visualization but also provides meaningful insights that can drive decisions.
 
 GitHub Repository
-- [link](#https://github.com/gourinandhan01/powerbi.git)
+- [https://github.com/gourinandhan01/powerbi.git](#)
 
 
 
